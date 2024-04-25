@@ -1,6 +1,8 @@
-# marvel_pedia
+# FreeGamesApp  Mobile
 
-A new Flutter project.
+Applicacion creada en flutter para practicar la conexion a una API publica que proporsiona informacion de videojuegos gratis.
+
+Se hace especial foco en el uso de Listviews y Mappers
 
 ## Getting Started
 
