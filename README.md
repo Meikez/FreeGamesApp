@@ -4,15 +4,5 @@ Applicacion creada en flutter para practicar la conexion a una API publica que p
 
 Se hace especial foco en el uso de Listviews y Mappers
 
-## Getting Started
+![image](https://github.com/Meikez/FreeGamesApp/assets/77634804/5e4a688b-a20b-4b26-b31d-69878d596026)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
